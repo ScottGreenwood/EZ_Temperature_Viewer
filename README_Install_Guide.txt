@@ -12,6 +12,7 @@ Verified to work with (but not necessarily limited to):
 Note: Checked with Matlab 2012b -> 
 	- at least one issue because Matlab built-in function strsplit is a post (at least) 2012b addition...
 	- could create alternative strsplit function or alternative fix in code
+	
 Decide which installation option is desired and follow guide:
 a.	Use within Matlab:
 	i.	Launch Matlab.
